@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,500&family=Noto+Serif&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    color: rgb(57, 53, 53);
+    padding-bottom: 20px;
+    
+}
+body{
+    background-color: #80F7DF;
+    font-family: "Kanit";
+    
+}
+header{
+    padding: 10px;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: center;
+    
+   
+   
+}
+main{
+    background-color: white;
+    width: 400px;
+    margin: auto;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    padding: 15px;
+    
+   
+    
+    
+}
+.p1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.c1{
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+#peso{
+    width: 77%;
+    padding: 10px;
+    border-radius: 10px;
+   
+    
+}
+.p2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#altura{
+    width: 77%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.c2{
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.botao{
+    background-color: rgb(100, 148, 148);
+    width: 120px;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 1s;
+    margin-bottom: 10px;
+    font-family: "Kanit";
+    color: white;
+    margin-top: 20px;
+    
+}
+.botao:hover{
+    background-color:rgb(85, 97, 97) ;
+}
+.result{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+    padding-top: 20px;
+
+}
+.sec{
+    
+    margin: auto;
+    
+}
+.sub1{
+    color: #1A7563;
+}
+.resultin{
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.iimage{
+    max-width: 110px;
+    
+    
+}
+.titulo1{
+    padding-left: 20px;
+}
+nav{
+    background-color: rgb(213, 231, 23);
+    margin-bottom: 50px;
+    
+}
+nav > a{
+    margin: 10px;
+}
